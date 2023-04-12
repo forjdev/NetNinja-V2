@@ -1,5 +1,4 @@
-# NetNinja
-## What is it?
+## What is NetNinja?
 Our web crawling script is a powerful tool that can help you scrape data from any website. It offers a range of features that make it easy to use and customize to your specific needs.
 
 One of the key benefits of our script is its robust error handling. It's designed to handle any errors gracefully, and it logs them for easy debugging. Additionally, it has throttling support to prevent overloading servers or getting blocked by websites.
@@ -9,6 +8,15 @@ The script offers customizable scraping options, allowing you to target the spec
 If you need to scrape websites that require login credentials or session cookies, our script offers authentication support. And when it comes to storing your scraped data, you can choose from a variety of output formats to suit your needs.
 
 Overall, our web crawling script is a reliable and user-friendly tool that can help you get the data you need with minimal hassle.
+
+## What happened to version 1?
+Unfortunately, due to human error, the first version of our web crawling script was completely destroyed. This means that all the code and data related to the first version of the script were lost and cannot be recovered.
+
+This is a significant setback for us, as we put a lot of time and effort into developing the initial version of the script. However, we understand that mistakes happen, and we're taking steps to prevent this from happening again in the future.
+
+Moving forward, we'll be implementing more robust backup and version control systems to protect against human error or other unforeseen circumstances that could cause data loss. We'll also be conducting more frequent backups to ensure that we have up-to-date copies of all our code and data.
+
+We understand that the loss of the first version of our script may be inconvenient for our users, and we apologize for any inconvenience this may cause. We're committed to making things right and ensuring that we provide our users with the best possible experience moving forward.
 
 ## Features:
 - Robust error handling: [Add more in-detail description of this feature here]
